@@ -1,0 +1,6 @@
+.idea/
+target/
+allure-results/
+*.class
+src/main/resources/Yalla_Regration_24_3.apk
+/src/main/resources/Yalls28-4.apk
